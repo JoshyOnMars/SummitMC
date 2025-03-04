@@ -1,1 +1,1 @@
-# SummitMC
+# play.summit-mc.net
