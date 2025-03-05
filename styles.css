@@ -13,3 +13,9 @@
     padding: 0 20px; /* Adds padding inside */
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow effect */
 }
+
+.logo {
+  font-family: "Damion", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
