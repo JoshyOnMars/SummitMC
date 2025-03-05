@@ -1,0 +1,13 @@
+.navbar {
+    position: fixed; /* Sticks the navbar to the top */
+    top: 0; /* Ensures it stays at the very top */
+    left: 0;
+    width: 100%; /* Makes it span the full width */
+    height: 60px; /* Adjust the height as needed */
+    background-color: #333; /* Example background color */
+    color: white; /* Example text color */
+    display: flex;
+    align-items: center; /* Centers items vertically */
+    padding: 0 20px; /* Adds padding inside */
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2); /* Optional shadow effect */
+}
